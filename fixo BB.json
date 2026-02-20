@@ -1,0 +1,10 @@
+{
+  "type": "Patch",
+  "version": "v1.9.7",
+  "showName": "BlackBox",
+  "exportDate": "2026-02-16T19:05:05.028Z",
+  "fixtures": [],
+  "config": {
+    "maxUniverses": 1
+  }
+}

@@ -1,0 +1,18 @@
+
+{
+  "name": "Patch Emulator",
+  "short_name": "PatchEmu",
+  "description": "Emulador de Patch profissional estilo GrandMA3",
+  "start_url": "/index.html",
+  "display": "fullscreen",
+  "background_color": "#0c0c0c",
+  "theme_color": "#0c0c0c",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3174/3174373.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
